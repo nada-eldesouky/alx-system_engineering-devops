@@ -1,1 +1,2 @@
-#!/bin/bash
+i#!/bin/bash
+grep -ia /etc/ssh/sshd_config
